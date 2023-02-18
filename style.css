@@ -1,0 +1,61 @@
+
+
+h4{
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+}
+td, th {
+    text-transform: capitalize;
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    font-size: 25px;
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+ins{
+    background-color: coral;
+}
+img{
+    width: 500px;
+}
+video{
+    width: 400px;
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
